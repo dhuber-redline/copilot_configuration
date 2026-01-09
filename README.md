@@ -1,6 +1,6 @@
 This README goes along with the init.lua file in this repository.
 Prerequisites for neovim and GitHub Copilot setup:
-- Neovim 0.7 or higher
+- Neovim v0.10.0 or higher
 - node.js for communication with GitHub
 - GitHub Copilot plugin for Neovim
 - (optional) Copilot Chat plugin for Neovim
